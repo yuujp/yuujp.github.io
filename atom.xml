@@ -6,7 +6,7 @@
   <link href="https://github.com/yuujp/yuujp.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/yuujp/yuujp.github.io/"/>
-  <updated>2021-08-05T11:50:43.224Z</updated>
+  <updated>2021-08-05T12:07:00.194Z</updated>
   <id>https://github.com/yuujp/yuujp.github.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://github.com/yuujp/yuujp.github.io/posts/d95d7e09.html"/>
+    <id>https://github.com/yuujp/yuujp.github.io/posts/d95d7e09.html</id>
+    <published>2021-08-05T11:56:04.000Z</published>
+    <updated>2021-08-05T12:07:00.194Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><pre class="line-numbers language-java" data-language="java"><code class="language-java">hello world<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="模板" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>moban</title>
     <link href="https://github.com/yuujp/yuujp.github.io/posts/597aaa43.html"/>
     <id>https://github.com/yuujp/yuujp.github.io/posts/597aaa43.html</id>
     <published>2021-08-05T08:11:20.000Z</published>
-    <updated>2021-08-05T11:50:43.224Z</updated>
+    <updated>2021-08-05T12:03:28.186Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="1二级标题"><a href="#1二级标题" class="headerlink" title="1二级标题"></a>1二级标题</h2><p>123456</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h3 id="123"><a href="#123" class="headerlink" title="123"></a>123</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h2 id="2-hello-world"><a href="#2-hello-world" class="headerlink" title="2 hello world"></a>2 hello world</h2><p><img src="https://z3.ax1x.com/2021/08/05/fe3ebj.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/fe3nVs.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/feGABQ.jpg"></p><h2 id="3你好"><a href="#3你好" class="headerlink" title="3你好"></a>3你好</h2><pre class="line-numbers language-yml" data-language="yml"><code class="language-yml">---title: yjpdate: 2019-08-10 21:44:44author: 余江平img: /medias/banner/7.jpg  背景图片coverImg: /medias/banner/7.jpg  轮播图片top: truecover: true 轮播toc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要tags:- Hexo- Github- 博客categories:- 软件安装与配置---<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4模板"><a href="#4模板" class="headerlink" title="4模板"></a>4模板</h2><pre class="line-numbers language-java" data-language="java"><code class="language-java">title: mobantags: 模板top: truecover: truetoc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要categories:  - 软件安装与配置abbrlink: 597aaa43date: 2021-08-05 16:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
@@ -61,26 +85,6 @@
     
     
     <category term="文章发布" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://github.com/yuujp/yuujp.github.io/posts/0.html"/>
-    <id>https://github.com/yuujp/yuujp.github.io/posts/0.html</id>
-    <published>2021-08-05T06:43:43.047Z</published>
-    <updated>2021-08-05T07:06:08.225Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>标题</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>字体   </p><p><strong>加粗</strong>   两个**</p><p><em>倾斜</em>  一个*</p><p><strong><em>斜体加粗</em></strong>  三个***</p><p><del>删除线</del>    两个~~</p><p>==高亮==  两个==</p><p>我是^上标^       一对 ^^  英文模式</p><p>我是<del>下标</del>       一对~~</p><p>3 列表</p><ul><li>  +-加空格</li></ul><ol><li>  数字加.</li><li></li></ol><p>4 表格</p><p>|加——-</p><table><thead><tr><th>mon</th><th>Tue</th><th>Wen</th><th>Thu</th><th>Fri</th></tr></thead><tbody><tr><td>123</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p>5  引用</p><blockquote><p>13245</p><pre class="line-numbers language-none"><code class="language-none"><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></blockquote><p><strong>134684654</strong>```hfgdh`</p><p><code>1654</code></p><p><u>46546</u></p><hr>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
     
   </entry>
   
