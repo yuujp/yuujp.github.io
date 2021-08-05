@@ -566,10 +566,43 @@
             </div>
             <div class="tag-chips">
                 
+                
+                <a href="/tags/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/" title="文章发布: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="文章发布" style="background-color: #F9EBEA;">文章发布
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
             </div>
         </div>
     </div>
 </div>
+
+    
+    <link rel="stylesheet" type="text/css" href="/libs/jqcloud/jqcloud.css">
+<style type="text/css">
+    #tag-wordcloud {
+        width: 100%;
+        height: 300px;
+    }
+</style>
+
+<div class="container" data-aos="fade-up">
+    <div class="card">
+        <div id="tag-wordcloud" class="card-content"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/libs/jqcloud/jqcloud-1.0.4.min.js"></script>
+<script type="text/javascript">
+    
+
+    $('#tag-wordcloud').jQCloud([{"text":"文章发布","weight":1,"link":"/tags/文章发布/"}], {
+        autoResize: true
+    });
+</script>
 
     
 
@@ -652,7 +685,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">166</span>&nbsp;字
+                class="white-color">197</span>&nbsp;字
             
             
             
