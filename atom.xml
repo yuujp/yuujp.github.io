@@ -3,11 +3,11 @@
   <title>无名之辈</title>
   
   <subtitle>无名之辈の博客</subtitle>
-  <link href="https://github.com/yuujp/yuujp.github.io/atom.xml" rel="self"/>
+  <link href="https://yuujp.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/yuujp/yuujp.github.io/"/>
+  <link href="https://yuujp.github.io/"/>
   <updated>2021-08-08T05:20:49.965Z</updated>
-  <id>https://github.com/yuujp/yuujp.github.io/</id>
+  <id>https://yuujp.github.io/</id>
   
   <author>
     <name>yuujp</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何设置文章参数</title>
-    <link href="https://github.com/yuujp/yuujp.github.io/posts/4ba00344.html"/>
-    <id>https://github.com/yuujp/yuujp.github.io/posts/4ba00344.html</id>
+    <link href="https://yuujp.github.io/posts/4ba00344.html"/>
+    <id>https://yuujp.github.io/posts/4ba00344.html</id>
     <published>2021-08-08T04:11:20.000Z</published>
     <updated>2021-08-08T05:20:49.965Z</updated>
     
@@ -33,21 +33,21 @@
     
     
     
-    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://yuujp.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="Hexo" scheme="https://github.com/yuujp/yuujp.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://yuujp.github.io/tags/Hexo/"/>
     
-    <category term="Github" scheme="https://github.com/yuujp/yuujp.github.io/tags/Github/"/>
+    <category term="Github" scheme="https://yuujp.github.io/tags/Github/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://github.com/yuujp/yuujp.github.io/posts/d95d7e09.html"/>
-    <id>https://github.com/yuujp/yuujp.github.io/posts/d95d7e09.html</id>
+    <link href="https://yuujp.github.io/posts/d95d7e09.html"/>
+    <id>https://yuujp.github.io/posts/d95d7e09.html</id>
     <published>2021-08-05T11:56:04.000Z</published>
     <updated>2021-08-08T05:45:53.433Z</updated>
     
@@ -61,17 +61,17 @@
     
     
     
-    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://yuujp.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>moban</title>
-    <link href="https://github.com/yuujp/yuujp.github.io/posts/597aaa43.html"/>
-    <id>https://github.com/yuujp/yuujp.github.io/posts/597aaa43.html</id>
+    <link href="https://yuujp.github.io/posts/597aaa43.html"/>
+    <id>https://yuujp.github.io/posts/597aaa43.html</id>
     <published>2021-08-05T08:11:20.000Z</published>
     <updated>2021-08-08T05:45:29.781Z</updated>
     
@@ -85,17 +85,17 @@
     
     
     
-    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="模板" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
+    <category term="模板" scheme="https://yuujp.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/yuujp/yuujp.github.io/posts/4a17b156.html"/>
-    <id>https://github.com/yuujp/yuujp.github.io/posts/4a17b156.html</id>
+    <link href="https://yuujp.github.io/posts/4a17b156.html"/>
+    <id>https://yuujp.github.io/posts/4a17b156.html</id>
     <published>2021-07-24T05:27:03.829Z</published>
     <updated>2021-07-24T05:30:43.945Z</updated>
     
