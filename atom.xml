@@ -6,7 +6,7 @@
   <link href="https://github.com/yuujp/yuujp.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/yuujp/yuujp.github.io/"/>
-  <updated>2021-08-05T12:07:00.194Z</updated>
+  <updated>2021-08-08T05:20:49.965Z</updated>
   <id>https://github.com/yuujp/yuujp.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何设置文章参数</title>
+    <link href="https://github.com/yuujp/yuujp.github.io/posts/4ba00344.html"/>
+    <id>https://github.com/yuujp/yuujp.github.io/posts/4ba00344.html</id>
+    <published>2021-08-08T04:11:20.000Z</published>
+    <updated>2021-08-08T05:20:49.965Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="实现步骤"><a href="#实现步骤" class="headerlink" title="实现步骤"></a>实现步骤</h1><h2 id="1-参数设置"><a href="#1-参数设置" class="headerlink" title="1 参数设置"></a>1 参数设置</h2><pre class="line-numbers language-html" data-language="html"><code class="language-html">title: 如何发布文章   //这是标题tags:   - 博客    //标签 可以有多个  - Hexo  - Githubtop: true  //推荐文章coverImg: /medias/banner/1.jpg  //轮播壁纸cover: true      //轮播toc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要categories:  - 博客   //文章分类  abbrlink: d95d7e09  //自动生成的链接date: 2021-08-08 12:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="2-hexo-基本命令"><a href="#2-hexo-基本命令" class="headerlink" title="2 hexo 基本命令"></a>2 hexo 基本命令</h2><pre class="line-numbers language-html" data-language="html"><code class="language-html">hexo cleanhexo g hexo shexo dnpm i hexo-deployer-git   //安装扩展hexo new post "article title" //新建文章<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hexo" scheme="https://github.com/yuujp/yuujp.github.io/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://github.com/yuujp/yuujp.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇博客</title>
     <link href="https://github.com/yuujp/yuujp.github.io/posts/d95d7e09.html"/>
     <id>https://github.com/yuujp/yuujp.github.io/posts/d95d7e09.html</id>
     <published>2021-08-05T11:56:04.000Z</published>
-    <updated>2021-08-05T12:07:00.194Z</updated>
+    <updated>2021-08-08T05:45:53.433Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><pre class="line-numbers language-java" data-language="java"><code class="language-java">hello world<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
     
@@ -33,7 +61,7 @@
     
     
     
-    <category term="模板" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E6%A8%A1%E6%9D%BF/"/>
+    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
@@ -45,9 +73,9 @@
     <link href="https://github.com/yuujp/yuujp.github.io/posts/597aaa43.html"/>
     <id>https://github.com/yuujp/yuujp.github.io/posts/597aaa43.html</id>
     <published>2021-08-05T08:11:20.000Z</published>
-    <updated>2021-08-05T12:03:28.186Z</updated>
+    <updated>2021-08-08T05:45:29.781Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="1二级标题"><a href="#1二级标题" class="headerlink" title="1二级标题"></a>1二级标题</h2><p>123456</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h3 id="123"><a href="#123" class="headerlink" title="123"></a>123</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h2 id="2-hello-world"><a href="#2-hello-world" class="headerlink" title="2 hello world"></a>2 hello world</h2><p><img src="https://z3.ax1x.com/2021/08/05/fe3ebj.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/fe3nVs.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/feGABQ.jpg"></p><h2 id="3你好"><a href="#3你好" class="headerlink" title="3你好"></a>3你好</h2><pre class="line-numbers language-yml" data-language="yml"><code class="language-yml">---title: yjpdate: 2019-08-10 21:44:44author: 余江平img: /medias/banner/7.jpg  背景图片coverImg: /medias/banner/7.jpg  轮播图片top: truecover: true 轮播toc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要tags:- Hexo- Github- 博客categories:- 软件安装与配置---<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4模板"><a href="#4模板" class="headerlink" title="4模板"></a>4模板</h2><pre class="line-numbers language-java" data-language="java"><code class="language-java">title: mobantags: 模板top: truecover: truetoc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要categories:  - 软件安装与配置abbrlink: 597aaa43date: 2021-08-05 16:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="1二级标题"><a href="#1二级标题" class="headerlink" title="1二级标题"></a>1二级标题</h2><p>123456</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h3 id="123"><a href="#123" class="headerlink" title="123"></a>123</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h2 id="2-hello-world"><a href="#2-hello-world" class="headerlink" title="2 hello world"></a>2 hello world</h2><p><img src="https://z3.ax1x.com/2021/08/05/fe3ebj.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/fe3nVs.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/feGABQ.jpg"></p><h2 id="3你好"><a href="#3你好" class="headerlink" title="3你好"></a>3你好</h2><pre class="line-numbers language-yml" data-language="yml"><code class="language-yml">---title: yjpdate: 2019-08-10 21:44:44author: 余江平img: /medias/banner/7.jpg  背景图片coverImg: /medias/banner/7.jpg  轮播图片top: truecover: true 轮播toc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要tags:- Hexo- Github- 博客categories:- 软件安装与配置---<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4模板"><a href="#4模板" class="headerlink" title="4模板"></a>4模板</h2><pre class="line-numbers language-java" data-language="java"><code class="language-java">title: mobantags: 模板top: truecover: truetoc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要categories:  - 博客abbrlink: 597aaa43date: 2021-08-05 16:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
     
       
@@ -57,54 +85,10 @@
     
     
     
-    <category term="软件安装与配置" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    <category term="博客" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="模板" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>yjp</title>
-    <link href="https://github.com/yuujp/yuujp.github.io/posts/6b7678dc.html"/>
-    <id>https://github.com/yuujp/yuujp.github.io/posts/6b7678dc.html</id>
-    <published>2021-08-05T07:14:54.000Z</published>
-    <updated>2021-08-05T07:33:36.348Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="1这是标题"><a href="#1这是标题" class="headerlink" title="1这是标题"></a>1这是标题</h1><h1 id="2这是表格"><a href="#2这是表格" class="headerlink" title="2这是表格"></a>2这是表格</h1><table><thead><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th></tr></thead><tbody><tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>5</td><td>5</td></tr></tbody></table><h1 id="3这是分割线"><a href="#3这是分割线" class="headerlink" title="3这是分割线"></a>3这是分割线</h1><p><code>hello world</code></p><hr>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="软件安装与配置" scheme="https://github.com/yuujp/yuujp.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    
-    
-    <category term="文章发布" scheme="https://github.com/yuujp/yuujp.github.io/tags/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://github.com/yuujp/yuujp.github.io/posts/0.html"/>
-    <id>https://github.com/yuujp/yuujp.github.io/posts/0.html</id>
-    <published>2021-07-25T03:01:59.894Z</published>
-    <updated>2021-07-25T03:43:14.974Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
     
   </entry>
   

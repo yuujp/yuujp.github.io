@@ -11,7 +11,7 @@
 <head>
     
     <meta charset="utf-8">
-    <meta name="keywords" content="yuujp 计算机 ">
+    <meta name="keywords" content="如何设置文章参数, yuujp 计算机 ">
     <meta name="description" content="本科 | 软件工程 |">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -26,7 +26,7 @@
 
 
 
-    <title>无名之辈</title>
+    <title>如何设置文章参数 | 无名之辈</title>
 
     <link rel="icon" type="image/jpeg" href="https://z3.ax1x.com/2021/07/24/W6hOcn.jpg">
 
@@ -529,12 +529,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('https://cdn.jsdelivr.net/gh/LuckyZmj/imgbed@master/posts/20200928021815.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('https://cdn.jsdelivr.net/gh/LuckyZmj/imgbed@master/posts/20200928013951.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title"></h1>
+                    <h1 class="description center-align post-title">如何设置文章参数</h1>
                 </div>
             </div>
         </div>
@@ -653,12 +653,33 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E5%8D%9A%E5%AE%A2/">
+                                <span class="chip bg-color">博客</span>
+                            </a>
+                        
+                            <a href="/tags/Hexo/">
+                                <span class="chip bg-color">Hexo</span>
+                            </a>
+                        
+                            <a href="/tags/Github/">
+                                <span class="chip bg-color">Github</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fas fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/%E5%8D%9A%E5%AE%A2/" class="post-category">
+                                博客
+                            </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -667,21 +688,21 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2021-07-25
+                    2021-08-08
                 </div>
                 
 
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2021-07-25
+                    2021-08-08
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    0
+                    165
                 </div>
                 
 
@@ -721,7 +742,34 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                
+                <h1 id="实现步骤"><a href="#实现步骤" class="headerlink" title="实现步骤"></a>实现步骤</h1><h2 id="1-参数设置"><a href="#1-参数设置" class="headerlink" title="1 参数设置"></a>1 参数设置</h2><pre class="line-numbers language-html" data-language="html"><code class="language-html">title: 如何发布文章   //这是标题
+tags: 
+  - 博客    //标签 可以有多个
+  - Hexo
+  - Github
+
+top: true  //推荐文章
+coverImg: /medias/banner/1.jpg  //轮播壁纸
+cover: true      //轮播
+
+toc: true
+mathjax: true
+
+summary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
+categories:
+  - 博客   //文章分类
+  
+abbrlink: d95d7e09  //自动生成的链接
+date: 2021-08-08 12:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h2 id="2-hexo-基本命令"><a href="#2-hexo-基本命令" class="headerlink" title="2 hexo 基本命令"></a>2 hexo 基本命令</h2><pre class="line-numbers language-html" data-language="html"><code class="language-html">hexo clean
+hexo g 
+hexo s
+hexo d
+
+npm i hexo-deployer-git   //安装扩展
+hexo new post "article title" //新建文章<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+
                 
             </div>
             <hr/>
@@ -747,7 +795,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://github.com/yuujp/yuujp.github.io/posts/0.html">https://github.com/yuujp/yuujp.github.io/posts/0.html</a>
+                    <a href="https://github.com/yuujp/yuujp.github.io/posts/4ba00344.html">https://github.com/yuujp/yuujp.github.io/posts/4ba00344.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -784,7 +832,19 @@
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/tags/%E5%8D%9A%E5%AE%A2/">
+                                    <span class="chip bg-color">博客</span>
+                                </a>
+                            
+                                <a href="/tags/Hexo/">
+                                    <span class="chip bg-color">Hexo</span>
+                                </a>
+                            
+                                <a href="/tags/Github/">
+                                    <span class="chip bg-color">Github</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -1254,46 +1314,56 @@ new Valine({
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/posts/6b7678dc.html">
+                <a href="/posts/4ba00344.html">
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/LuckyZmj/imgbed@master/posts/20200928015238.jpg" class="responsive-img" alt="yjp">
+                        <img src="https://cdn.jsdelivr.net/gh/LuckyZmj/imgbed@master/posts/20200928013951.jpg" class="responsive-img" alt="如何设置文章参数">
                         
-                        <span class="card-title">yjp</span>
+                        <span class="card-title">如何设置文章参数</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
+                            关于博客发布的基础设置与命令
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2021-08-05
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-08-08
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/" class="post-category">
-                                    软件安装与配置
+                            <a href="/categories/%E5%8D%9A%E5%AE%A2/" class="post-category">
+                                    博客
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/">
-                        <span class="chip bg-color">文章发布</span>
+                    <a href="/tags/%E5%8D%9A%E5%AE%A2/">
+                        <span class="chip bg-color">博客</span>
+                    </a>
+                    
+                    <a href="/tags/Hexo/">
+                        <span class="chip bg-color">Hexo</span>
+                    </a>
+                    
+                    <a href="/tags/Github/">
+                        <span class="chip bg-color">Github</span>
                     </a>
                     
                 </div>
@@ -1307,32 +1377,44 @@ new Valine({
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/posts/4a17b156.html">
+                <a href="/posts/d95d7e09.html">
                     <div class="card-image">
                         
                         
-                        <img src="https://cdn.jsdelivr.net/gh/LuckyZmj/imgbed@master/posts/20200928015642.jpg" class="responsive-img" alt="Hello World">
+                        <img src="https://cdn.jsdelivr.net/gh/LuckyZmj/imgbed@master/posts/20200928011708.jpg" class="responsive-img" alt="我的第一篇博客">
                         
-                        <span class="card-title">Hello World</span>
+                        <span class="card-title">我的第一篇博客</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
+                            这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-07-24
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-08-05
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-user fa-fw"></i>
-                            yuujp
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E5%8D%9A%E5%AE%A2/" class="post-category">
+                                    博客
+                                </a>
+                            
                             
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E5%8D%9A%E5%AE%A2/">
+                        <span class="chip bg-color">博客</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -1577,7 +1659,7 @@ new Valine({
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">331</span>&nbsp;字
+                class="white-color">461</span>&nbsp;字
             
             
             

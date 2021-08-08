@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>如何设置文章参数</title>
+      <link href="/posts/4ba00344.html"/>
+      <url>/posts/4ba00344.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="实现步骤"><a href="#实现步骤" class="headerlink" title="实现步骤"></a>实现步骤</h1><h2 id="1-参数设置"><a href="#1-参数设置" class="headerlink" title="1 参数设置"></a>1 参数设置</h2><pre class="line-numbers language-html" data-language="html"><code class="language-html">title: 如何发布文章   //这是标题tags:   - 博客    //标签 可以有多个  - Hexo  - Githubtop: true  //推荐文章coverImg: /medias/banner/1.jpg  //轮播壁纸cover: true      //轮播toc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要categories:  - 博客   //文章分类  abbrlink: d95d7e09  //自动生成的链接date: 2021-08-08 12:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="2-hexo-基本命令"><a href="#2-hexo-基本命令" class="headerlink" title="2 hexo 基本命令"></a>2 hexo 基本命令</h2><pre class="line-numbers language-html" data-language="html"><code class="language-html">hexo cleanhexo g hexo shexo dnpm i hexo-deployer-git   //安装扩展hexo new post "article title" //新建文章<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博客</title>
       <link href="/posts/d95d7e09.html"/>
       <url>/posts/d95d7e09.html</url>
@@ -13,7 +42,7 @@
       
       <categories>
           
-          <category> 模板 </category>
+          <category> 博客 </category>
           
       </categories>
       
@@ -33,12 +62,12 @@
       <link href="/posts/597aaa43.html"/>
       <url>/posts/597aaa43.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="1二级标题"><a href="#1二级标题" class="headerlink" title="1二级标题"></a>1二级标题</h2><p>123456</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h3 id="123"><a href="#123" class="headerlink" title="123"></a>123</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h2 id="2-hello-world"><a href="#2-hello-world" class="headerlink" title="2 hello world"></a>2 hello world</h2><p><img src="https://z3.ax1x.com/2021/08/05/fe3ebj.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/fe3nVs.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/feGABQ.jpg"></p><h2 id="3你好"><a href="#3你好" class="headerlink" title="3你好"></a>3你好</h2><pre class="line-numbers language-yml" data-language="yml"><code class="language-yml">---title: yjpdate: 2019-08-10 21:44:44author: 余江平img: /medias/banner/7.jpg  背景图片coverImg: /medias/banner/7.jpg  轮播图片top: truecover: true 轮播toc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要tags:- Hexo- Github- 博客categories:- 软件安装与配置---<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4模板"><a href="#4模板" class="headerlink" title="4模板"></a>4模板</h2><pre class="line-numbers language-java" data-language="java"><code class="language-java">title: mobantags: 模板top: truecover: truetoc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要categories:  - 软件安装与配置abbrlink: 597aaa43date: 2021-08-05 16:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="1二级标题"><a href="#1二级标题" class="headerlink" title="1二级标题"></a>1二级标题</h2><p>123456</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h3 id="123"><a href="#123" class="headerlink" title="123"></a>123</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h2 id="2-hello-world"><a href="#2-hello-world" class="headerlink" title="2 hello world"></a>2 hello world</h2><p><img src="https://z3.ax1x.com/2021/08/05/fe3ebj.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/fe3nVs.jpg"></p><p><img src="https://z3.ax1x.com/2021/08/05/feGABQ.jpg"></p><h2 id="3你好"><a href="#3你好" class="headerlink" title="3你好"></a>3你好</h2><pre class="line-numbers language-yml" data-language="yml"><code class="language-yml">---title: yjpdate: 2019-08-10 21:44:44author: 余江平img: /medias/banner/7.jpg  背景图片coverImg: /medias/banner/7.jpg  轮播图片top: truecover: true 轮播toc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要tags:- Hexo- Github- 博客categories:- 软件安装与配置---<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4模板"><a href="#4模板" class="headerlink" title="4模板"></a>4模板</h2><pre class="line-numbers language-java" data-language="java"><code class="language-java">title: mobantags: 模板top: truecover: truetoc: truemathjax: truesummary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要categories:  - 博客abbrlink: 597aaa43date: 2021-08-05 16:11:20<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       <categories>
           
-          <category> 软件安装与配置 </category>
+          <category> 博客 </category>
           
       </categories>
       
@@ -48,44 +77,6 @@
             <tag> 模板 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>yjp</title>
-      <link href="/posts/6b7678dc.html"/>
-      <url>/posts/6b7678dc.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="1这是标题"><a href="#1这是标题" class="headerlink" title="1这是标题"></a>1这是标题</h1><h1 id="2这是表格"><a href="#2这是表格" class="headerlink" title="2这是表格"></a>2这是表格</h1><table><thead><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th></tr></thead><tbody><tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>5</td><td>5</td></tr></tbody></table><h1 id="3这是分割线"><a href="#3这是分割线" class="headerlink" title="3这是分割线"></a>3这是分割线</h1><p><code>hello world</code></p><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件安装与配置 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 文章发布 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
       
     </entry>
     
