@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Java语言环境的搭建</title>
+      <link href="/posts/a560d989.html"/>
+      <url>/posts/a560d989.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="Java的安装与配置"><a href="#Java的安装与配置" class="headerlink" title="Java的安装与配置"></a>Java的安装与配置</h3><h2 id="一-下载并安装JDK"><a href="#一-下载并安装JDK" class="headerlink" title="一 下载并安装JDK"></a>一 下载并安装JDK</h2><hr><p>傻瓜式安装，下一步即可。<br>建议：安装路径不要有中文或者空格等特殊符号。<br>如果操作系统是64位的，软件尽量选择支持64位的（除非软件本身不区分）。<br>当提示安装 JRE时，正常在JDK安装时已经装过了，但是为了后续使用Eclipse等开发工具不报错，建议也根据提示安装JRE。</p><hr><h2 id="二-配置环境变量"><a href="#二-配置环境变量" class="headerlink" title="二 配置环境变量"></a>二 配置环境变量</h2><hr><p>配置方法：我的电脑–属性–高级系统设置–环境变量<br><img src="https://z3.ax1x.com/2021/08/12/f07aGV.png"><br>点击path–&gt;新建–&gt;将jdk安装目录的bin目录的地址输进去<br>推荐：新建在系统变量里新建JAVA_HOME<br><img src="https://z3.ax1x.com/2021/08/12/f0bt3V.png"><br>然后在path里添加%JAVA_HOME%\bin<br><img src="https://z3.ax1x.com/2021/08/12/f0bs41.png"></p><hr><h2 id="三-为什么要设置path？"><a href="#三-为什么要设置path？" class="headerlink" title="三 为什么要设置path？"></a>三 为什么要设置path？</h2><hr><p>目的是为了在控制台的任何文件路径下，都可以调用jdk指定目录下的所有指令</p><hr><h2 id="四-验证"><a href="#四-验证" class="headerlink" title="四 验证"></a>四 验证</h2><hr><p>cmd输入Java，javac,java -version<br><img src="https://z3.ax1x.com/2021/08/12/f0q9Cq.png"></p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件安装 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> 软件安装 </tag>
+            
+            <tag> JDK </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何设置文章参数</title>
       <link href="/posts/4ba00344.html"/>
       <url>/posts/4ba00344.html</url>
