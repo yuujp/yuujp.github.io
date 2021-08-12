@@ -44,20 +44,6 @@
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/404.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yuujp.github.io/baidu_verify_xxxxxxx.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yuujp.github.io/google1xxxxxxx0.html</loc>
     
     <lastmod>2021-06-13</lastmod>
@@ -65,7 +51,7 @@
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/categories/index.html</loc>
+    <loc>https://yuujp.github.io/404.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -73,6 +59,13 @@
   
   <url>
     <loc>https://yuujp.github.io/List/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yuujp.github.io/baidu_verify_xxxxxxx.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -93,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/census/index.html</loc>
+    <loc>https://yuujp.github.io/categories/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/tags/index.html</loc>
+    <loc>https://yuujp.github.io/census/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -121,21 +114,14 @@
   </url>
   
   <url>
+    <loc>https://yuujp.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yuujp.github.io/List/galleries/index.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yuujp.github.io/List/movies/index.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yuujp.github.io/List/music/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -149,6 +135,13 @@
   </url>
   
   <url>
+    <loc>https://yuujp.github.io/List/music/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yuujp.github.io/List/galleries/%E4%B9%96%E5%B7%A7%E5%B0%8F%E7%8B%97/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
@@ -156,14 +149,7 @@
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yuujp.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
+    <loc>https://yuujp.github.io/List/movies/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -177,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    <loc>https://yuujp.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -191,6 +177,20 @@
   </url>
   
   <url>
+    <loc>https://yuujp.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yuujp.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yuujp.github.io/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
+    <loc>https://yuujp.github.io/List/galleries/%E6%B8%85%E6%96%B0%E8%8A%B1%E5%8D%89/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -212,7 +212,7 @@
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/List/galleries/%E6%B8%85%E6%96%B0%E8%8A%B1%E5%8D%89/index.html</loc>
+    <loc>https://yuujp.github.io/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -242,6 +242,13 @@
 
   
   <url>
+    <loc>https://yuujp.github.io/tags/%E6%A8%A1%E6%9D%BF/</loc>
+    <lastmod>2021-08-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yuujp.github.io/tags/Java/</loc>
     <lastmod>2021-08-12</lastmod>
     <changefreq>daily</changefreq>
@@ -257,13 +264,6 @@
   
   <url>
     <loc>https://yuujp.github.io/tags/JDK/</loc>
-    <lastmod>2021-08-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuujp.github.io/tags/%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2021-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -293,14 +293,14 @@
 
   
   <url>
-    <loc>https://yuujp.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
+    <loc>https://yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yuujp.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://yuujp.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2021-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
